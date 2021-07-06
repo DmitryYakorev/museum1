@@ -1,0 +1,25 @@
+
+.top {
+  width: 1920px;
+  height: 950px;
+  background-color: black;
+  margin: 0 auto;
+}
+.logo {
+  color: white;
+  width: 224px;
+  height: 33px;
+}
+.navigation {
+  display: flex;
+  width: 962px;
+  color: white;
+  text-decoration: none;
+}
+footer {
+  display: flex;
+  
+}
+ul {
+  display: flex;
+}
